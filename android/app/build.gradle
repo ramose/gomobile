@@ -93,7 +93,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.gomobile"
+    namespace "com.goonline.app"
     defaultConfig {
         applicationId "com.goonline.app"
         minSdkVersion rootProject.ext.minSdkVersion

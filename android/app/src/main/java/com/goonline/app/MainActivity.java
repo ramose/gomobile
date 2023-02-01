@@ -1,4 +1,4 @@
-package com.gomobile;
+package com.goonline.app;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
