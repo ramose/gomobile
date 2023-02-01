@@ -95,7 +95,7 @@ android {
 
     namespace "com.gomobile"
     defaultConfig {
-        applicationId "com.gomobile"
+        applicationId "com.goonline.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
